@@ -1,0 +1,15 @@
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.csproj.AssemblyReference.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.AssemblyInfoInputs.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.AssemblyInfo.cs
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.csproj.CoreCompileInputs.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\bin\Debug\net6.0\taskReplace.exe
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\bin\Debug\net6.0\taskReplace.deps.json
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\bin\Debug\net6.0\taskReplace.runtimeconfig.json
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\bin\Debug\net6.0\taskReplace.dll
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\bin\Debug\net6.0\taskReplace.pdb
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.dll
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\refint\taskReplace.dll
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.pdb
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\taskReplace.genruntimeconfig.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskReplace\obj\Debug\net6.0\ref\taskReplace.dll
