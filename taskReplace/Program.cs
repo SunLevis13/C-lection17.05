@@ -16,3 +16,6 @@ string Replace (string text, char oldValue, char newValue)
 }
 string newText = Replace(text, ' ','|');
 Console.WriteLine(newText);
+Console.WriteLine();
+newText = Replace(text, 'д','Д');
+Console.WriteLine(newText);
