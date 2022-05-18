@@ -1,0 +1,15 @@
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\bin\Debug\net6.0\taskMassiv.exe
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\bin\Debug\net6.0\taskMassiv.deps.json
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\bin\Debug\net6.0\taskMassiv.runtimeconfig.json
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\bin\Debug\net6.0\taskMassiv.dll
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\bin\Debug\net6.0\taskMassiv.pdb
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.csproj.AssemblyReference.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.AssemblyInfoInputs.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.AssemblyInfo.cs
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.csproj.CoreCompileInputs.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.dll
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\refint\taskMassiv.dll
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.pdb
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\taskMassiv.genruntimeconfig.cache
+C:\Users\wwolf\Dropbox\Zueva\GB\C#\Lection17.05\taskMassiv\obj\Debug\net6.0\ref\taskMassiv.dll
